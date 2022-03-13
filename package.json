@@ -1,5 +1,5 @@
 {
-  "name": "react-mathjax2",
+  "name": "react-mathjax-jbs",
   "version": "0.0.2",
   "description": "React component for MathJax",
   "main": "./lib/index.js",
@@ -22,7 +22,7 @@
     "tex",
     "mathml"
   ],
-  "author": "",
+  "author": "Josef Brøndum Schmidt",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wko27/react-mathjax/issues"
@@ -43,5 +43,8 @@
     "browserify": "^14.5.0",
     "eslint": "^4.10.0",
     "eslint-plugin-react": "^7.4.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
